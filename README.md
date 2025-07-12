@@ -39,9 +39,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,anaconda" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,azure,git" /><br>
+  <img src="https://skillicons.dev/icons?i=github,vscode,tensorflow,sklearn,opencv" /><br>
+  <img src="https://skillicons.dev/icons?i=anaconda,flask" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" width="40" height="40" style="margin-left:10px;" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" width="40" height="40" style="margin-left:10px;" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="40" height="40" style="margin: 0 5px;" />
