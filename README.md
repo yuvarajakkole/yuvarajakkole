@@ -1,25 +1,37 @@
 <!-- Profile Header Banner -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Yuvaraj+Akkole;AI+%26+Data+Science+Student;Passionate+about+AI+%F0%9F%A4%96;Building+Smart+Assistants+%F0%9F%A4%97;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
-      </td>
-    </tr>
-  </table>
+  <table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Yuvaraj+Akkole!;AI+%26+Data+Science+Engineer+in+the+making;Crafting+Smart+Assistants+that+understand+you+%F0%9F%A4%97;Turning+Voice+%26+Vision+into+Intelligence+%F0%9F%94%AD;Exploring+LLMs%2C+RAG%2C+and+NLP+daily+%F0%9F%A4%96;Lifelong+Learner+%E2%9C%85+Driven+to+Build+Meaningful+AI;Let%27s+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a final-year BE student in **Artificial Intelligence & Data Science**
-- 🤖 Working on AI-powered voice assistants & other AI models for make everyday life easier
-- 🧠 Love to experimenting with **LLMs, RAG, NLP, and ML**
-- 🚀 Always learning and improving!
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Tech Brain AI" />
+    </td>
+    <td>
+      <ul>
+        <li>🎓 I'm a final-year BE student in <strong>Artificial Intelligence & Data Science</strong></li>
+        <li>🤖 Working on AI-powered voice assistants & other AI models to make everyday life easier</li>
+        <li>🧠 Love experimenting with <strong>LLMs, RAG, NLP, and ML</strong></li>
+        <li>🚀 Always learning and improving!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -80,6 +92,19 @@
 > “Success is not final, failure is not fatal: It is the courage to continue that counts.” — *Winston Churchill*
 
 ---
+
+### 🤖 Tech in Motion
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Working" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Working" />
+      </td>
+      <td>
+        <img src="https://i.gifer.com/75ez.gif" width="400" alt="AI Data Flow" />
+      </td>
+    </tr>
+  </table>
 </div>
+
