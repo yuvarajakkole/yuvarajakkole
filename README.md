@@ -35,7 +35,7 @@
 
 <p align="center">
   🔗 <strong>Check out my full profile: : -</strong>
-  <a href="https://yuvarajakkole.github.io/my_potpoliyo/" target="_blank">github.com/yuvarajakkole</a>
+  <a href="https://yuvarajakkole.github.io/my_portfolio/" target="_blank">github.com/yuvarajakkole</a>
 </p>
 
 ---
