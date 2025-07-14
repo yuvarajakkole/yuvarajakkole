@@ -26,7 +26,7 @@
       <ul>
         <li>🎓 I'm a final-year BE student in <strong>Artificial Intelligence & Data Science</strong></li>
         <li>🤖 Working on AI-powered voice assistants & other AI models to make everyday life easier</li>
-        <li>🧠 Love experimenting with <strong>LLMs, RAG, NLP, and ML</strong></li>
+        <li>🧠 Love experimenting with <strong>LLMs, RAG, NLP and ML</strong></li>
         <li>🚀 Always learning and improving!</li>
       </ul>
     </td>
